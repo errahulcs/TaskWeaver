@@ -1,5 +1,7 @@
 {
+  "llm.api_type":"openai",
   "llm.api_base": "https://api.openai.com/v1",
   "llm.api_key": "",
-  "llm.model": "gpt-4-1106-preview"
+  "llm.model": "gpt-3.5-turbo",
+  "execution_service.kernel_mode":"local"
 }
